@@ -1,3 +1,3 @@
 # To do list
-[ ] Buy snacks
-[ ] Annoy Kieran
+- [ ] Buy snacks
+- [ ] Annoy Kieran
